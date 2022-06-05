@@ -36,7 +36,7 @@ Before starting a game you can read the rules:
 <img alt="sagrada rules" src="./images-readme/rules.png" />
 
 Players are given two window cards during set-up and can choose a window pattern from the four available sides – they all offer different dice placement options and vary in complexity:
-<img alt="choose window" src="./choose-window.png" />
+<img alt="choose window" src="./images-readme/choose-window.png" />
 <img alt="game start" src="./images-readme/game-start.png" />
 
 Played in a series of 10 rounds, this abstract family game sees players drafting dice from a central pool and adding them to the window grid on their lavishly illustrated player boards.
