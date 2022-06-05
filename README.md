@@ -36,13 +36,14 @@ Before starting a game you can read the rules:
 <img alt="sagrada rules" src="./images-readme/rules.png" />
 
 Players are given two window cards during set-up and can choose a window pattern from the four available sides – they all offer different dice placement options and vary in complexity:
+<img alt="choose window" src="./choose-window.png" />
 <img alt="game start" src="./images-readme/game-start.png" />
 
 Played in a series of 10 rounds, this abstract family game sees players drafting dice from a central pool and adding them to the window grid on their lavishly illustrated player boards.
 When the game ends player sees his score:
 <img alt="game result" src="./images-readme/game-result.png" />
 
-Our game you can play together with your friends online.
+You can play the game together with your friends online.
 If there is more than one player, the players take dice one at a time, so you can't take an action if  it is not your turn:
 <img alt="game two players" src="./images-readme/game-two-players.png" />
 
