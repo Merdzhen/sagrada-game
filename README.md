@@ -8,6 +8,7 @@ React, Redux (Toolkit, Thunk)
 This is a group project we realized in a group of 3 developers. 
 Original git history in the repository: https://github.com/IElizaI/Sagrada
 
+Current version is deployed **[here](http://46.166.93.68:3010/main)** 
 
 My responsibilities:
 - react routing
@@ -29,24 +30,24 @@ My responsibilities:
 Sagrada is a game of “dice drafting and window crafting” where players compete to construct a stained glass window masterpiece while gaining extra prestige through the completion of public and secret objectives.
 
 Sagrada takes its name from a place, the ‘Basílica i Temple Expiatori de la Sagrada Família’, aka Gaudi’s vast, unfinished church in Barcelona:
-<img alt="sagrada familia" src="./sagrada-familia.jpeg" />
+<img alt="sagrada familia" src="./images-readme/sagrada-familia.jpeg" />
 
 Before starting a game you can read the rules:
-<img alt="sagrada rules" src="./rules.png" />
+<img alt="sagrada rules" src="./images-readme/rules.png" />
 
 Players are given two window cards during set-up and can choose a window pattern from the four available sides – they all offer different dice placement options and vary in complexity:
-<img alt="game start" src="./game-start.png" />
+<img alt="game start" src="./images-readme/game-start.png" />
 
 Played in a series of 10 rounds, this abstract family game sees players drafting dice from a central pool and adding them to the window grid on their lavishly illustrated player boards.
 When the game ends player sees his score:
-<img alt="game start" src="./game-result.png" />
+<img alt="game result" src="./images-readme/game-result.png" />
 
 Our game you can play together with your friends online.
 If there is more than one player, the players take dice one at a time, so you can't take an action if  it is not your turn:
-<img alt="game start" src="./game-two-players.png" />
+<img alt="game two players" src="./images-readme/game-two-players.png" />
 
 But you can see what is going on on other players' windows:
-<img alt="game start" src="./game-second-player.png" />
+<img alt="game second player" src="./images-readme/game-second-player.png" />
 
 ---
 
