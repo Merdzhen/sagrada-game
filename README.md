@@ -14,7 +14,7 @@ My responsibilities:
 - react routing
 - 'Main' component - main page with general navigation
 - implementing game rules (a pdf document) into the website
-- styles for 'Login' and 'Registration' components
+- styles for 'Login', 'Registration', 'Players', 'Lobbies' components
 - 'NavBar' component
 - 'Dice' component - takes color and number as props and return a dice (client/src/components/game/Dice)
 - 'Counter' component - has 10 empty cubes as total amount of rounds and when one round ends puts the round dice on the counter (client/src/components/game/Dice)
